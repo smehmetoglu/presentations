@@ -1,3 +1,3 @@
-FROM nginx:1.17-alpine
+FROM nginx:alpine
 
 RUN mkdir -p /data/nginx/cache
